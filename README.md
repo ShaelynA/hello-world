@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi!!
+
+I am a positive, cat loving person!
+I'm excited to be learning code.
